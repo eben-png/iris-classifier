@@ -60,3 +60,4 @@ if __name__ == "__main__":
                 print(get_accuracy_full(X, val_X, y, val_y))
         
     print("Goodbye")
+    
