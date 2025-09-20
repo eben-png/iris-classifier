@@ -1,5 +1,7 @@
 # Iris Classifier
 
+Dataset used: https://www.kaggle.com/datasets/taweilo/iris-dataset-elarged-with-smote
+
 ## Setup
 1. Clone the repository
 2. Install dependencies: `pip install pandas scikit-learn`
